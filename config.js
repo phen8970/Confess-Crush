@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "Tiêu đề web",
     introTitle: 'bún lè',
     introDesc: `đánh nhau ko lùn`,
-    btnIntro: '^^HiHi^^',
+    btnIntro: 'đấm luôn,sợ gì',
     title: 'cô đang ngứa tay cho cô đấm nha',
     desc: 'cho cô đấm khum ',
     btnYes: 'ok lun',
