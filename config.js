@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `đứm nhau ko `,
     btnIntro: 'ok đứm luôn,sợ gì',
     title: 'cô đang ngứa tay ',
-    desc: 'mai cho cô nha lùn',
+    desc: 'mai cho cô đấm nha lùn',
     btnYes: 'thoải mái:)))',
     btnNo: 'Không nha :3',
     question: 'nhớ đem cho cô hộp milo zới',
